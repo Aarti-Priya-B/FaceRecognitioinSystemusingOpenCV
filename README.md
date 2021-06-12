@@ -1,1 +1,1 @@
-# FaceRecognitioinSystemusingOpenCV
+# FaceRecognitioinSystemUsingOpenCV
